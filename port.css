@@ -13,7 +13,7 @@ section{
 .banner{
     position: relative;
     min-height: 100vh;
-    background: url(../IMG_9888\ \(3\).JPG);
+    background: url(IMG_9888\ \(3\).JPG);
     background-size: cover;
     background-position: right;
     display: flex;
@@ -307,14 +307,14 @@ img{
     .toggle{
         width: 40px;
         height: 40px;
-        background: url(../menu.png);
+        background: url(menu.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 30px;
         cursor: pointer;
     }
     .toggle.active{
-        background: url(../close.png);
+        background: url(close.png);
         background-position: center;
         background-repeat: no-repeat;
         background-size: 30px;
